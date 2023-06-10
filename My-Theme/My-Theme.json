@@ -1,5 +1,5 @@
 {
-    "name": "Aytrka's Theme2.0",
+    "name": "Aytrka's Theme3.0",
     "is_dark": true,
     "colors": {
         "accent-color": "#fba922",
@@ -9,7 +9,7 @@
         "alert": "#faa81ad9",
 
         "sidebar-color": "#202225",
-        "roomlist-background-color": "#4752c4",
+        "roomlist-background-color": "#161719",
         "roomlist-text-color": "#c5c8c6",
         "roomlist-text-secondary-color": "#ffffff",
         "roomlist-highlights-color": "#4f545c52",
